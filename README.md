@@ -108,7 +108,7 @@
   <br>
   <br>
   <a href="https://www.python.org" target="_blank">
-    <code><img src="https://github.com/StandartCoder/StandartCoder/blob/main/images/python.svg" alt="Python" height="40"/></code>
+    <code><img src="https://github.com/StandartCoder/StandartCoder/blob/main/images/python.png" alt="Python" height="40"/></code>
   </a>
 </p>
 
@@ -128,7 +128,7 @@
 <details>
   <summary><b>⚡ GitHub Contribution</b></summary>
   <br>
-  <p><img alt="StandartCoder's GitHub Contribution" src="https://github.com/StandartCoder/StandartCoder/blob/snake/snake.svg"/></p>
+  <p><img alt="StandartCoder's GitHub Contribution" src="https://github.com/StandartCoder/StandartCoder/blob/images/snake.svg"/></p>
   <br>
 </details>
 <details> 
