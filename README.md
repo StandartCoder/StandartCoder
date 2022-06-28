@@ -110,6 +110,12 @@
   <a href="https://www.python.org" target="_blank">
     <code><img src="https://github.com/StandartCoder/StandartCoder/blob/main/images/python.png" alt="Python" height="40"/></code>
   </a>
+  <a href="https://www.mongodb.com" target="_blank">
+    <code><img src="https://github.com/StandartCoder/StandartCoder/blob/main/images/mongodb.svg" alt="MongoDB" height="40"/></code>
+  </a>
+  <a href="https://www.mysql.com" target="_blank">
+    <code><img src="https://github.com/StandartCoder/StandartCoder/blob/main/images/mysql.svg" alt="MySQL" height="40"/></code>
+  </a>
 </p>
 
 <!-- My Activity -->
