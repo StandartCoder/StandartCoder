@@ -134,7 +134,7 @@
 <details>
   <summary><b>⚡ GitHub Contribution</b></summary>
   <br>
-  <p><img alt="StandartCoder's GitHub Contribution" src="https://github.com/StandartCoder/StandartCoder/blob/images/snake.svg"/></p>
+  <p><img alt="StandartCoder's GitHub Contribution" src="https://github.com/StandartCoder/StandartCoder/blob/main/images/snake.svg"/></p>
   <br>
 </details>
 <details> 
