@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>I'm a passionate programmer who loves to code, ahh also an student</b>
+  <b>I'm an passionate programmer who loves to code, ahh also an student</b>
 </p>
 
 <img align='right' src="https://github.com/StandartCoder/StandartCoder/blob/main/images/coding.gif" width="400">
@@ -20,7 +20,7 @@
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 - Show ❤ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
 
-<h2>Tech stack</h2>
+<h2>Tech Stack</h2>
 
 <p align="center">
   <b>Languages</b>
