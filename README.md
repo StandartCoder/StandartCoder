@@ -12,7 +12,6 @@
   <b>I'm an passionate programmer who loves to code, ahh also an student</b>
 </p>
 
-<img align='right' src="https://github.com/StandartCoder/StandartCoder/blob/main/images/coding.gif" width="400">
 <br>
 
 - ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
