@@ -195,6 +195,7 @@ NetBeans                 1 hr 6 mins         █░░░░░░░░░░�
     <code><img src="https://github.com/StandartCoder/StandartCoder/blob/main/images/twitter.png" alt="Twitter" height="30" width="40"/></code>
   </a>
 </p>
+[![Discord Presence](https://lanyard.cnrad.dev/api/831041114843643904)](https://discord.com/users/831041114843643904)
 
 <!-- Signal -->
 <p align="right">
