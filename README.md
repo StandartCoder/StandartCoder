@@ -191,11 +191,11 @@ NetBeans                 1 hr 6 mins         █░░░░░░░░░░�
 <!-- Connection -->
 <h2> Connect with me <img src="https://github.com/StandartCoder/StandartCoder/blob/main/images/handshake.gif" height="35px"></h2>
 <p align="center">
-  <a href="https://twitter.com/StandartCoder" target="_blank">
-    <code><img src="https://github.com/StandartCoder/StandartCoder/blob/main/images/twitter.png" alt="Twitter" height="30" width="40"/></code>
-  </a>
-  <a href="https://discord.com/users/327947461194809345">
-    <img src="https://lanyard.cnrad.dev/api/327947461194809345" alt="dc"/>
+  <!-- a href="https://twitter.com/StandartCoder" target="_blank" -->
+    <!-- code><img src="https://github.com/StandartCoder/StandartCoder/blob/main/images/twitter.png" alt="Twitter" height="30" width="40"/></code -->
+  <!-- /a -->
+  <a href="https://discord.com/users/831041114843643904">
+    <img src="https://lanyard.cnrad.dev/api/831041114843643904" alt="dc"/>
   </a>
 </p>
 
